@@ -1,6 +1,6 @@
 # Ewhatsapp - Desktop PWA app for whatsapp web
 
-## Chrome extension for avoide [Same origin policy]('https://en.wikipedia.org/wiki/Same-origin_policy)
+## Chrome extension for avoide [Same origin policy](https://en.wikipedia.org/wiki/Same-origin_policy)
 
 - [iFrame Allow](https://chrome.google.com/webstore/detail/iframe-allow/gifgpciglhhpmeefjdmlpboipkibhbjg)
 
