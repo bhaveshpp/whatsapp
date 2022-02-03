@@ -34,3 +34,7 @@ git clone https://github.com/bhaveshpp/whatsapp.git
 - Pin whatsapp app to panel.
 
 ![install whatsapp web on desktop](https://raw.githubusercontent.com/bhaveshpp/whatsapp/master/WP-PIN.png)
+
+- Use as seperate app with push notification
+
+![install whatsapp web on desktop](https://raw.githubusercontent.com/bhaveshpp/whatsapp/master/WP-APP.png)
