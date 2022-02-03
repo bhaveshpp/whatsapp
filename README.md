@@ -29,8 +29,8 @@ git clone https://github.com/bhaveshpp/whatsapp.git
 
 - Install whatsapp web PWA app.
 
-![install whatsapp web on desktop](https://github.com/bhaveshpp/whatsapp/blob/master/WP-BANNER.PNG)
+![install whatsapp web on desktop](https://github.com/bhaveshpp/whatsapp/blob/master/WP-BANNER.PNG?raw=true)
 
 - Pin whatsapp app to panel.
 
-![install whatsapp web on desktop](https://github.com/bhaveshpp/whatsapp/blob/master/WP-PIN.PNG)
+![install whatsapp web on desktop](https://github.com/bhaveshpp/whatsapp/blob/master/WP-PIN.PNG?raw=true)
